@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Implementación de BPG en la producción porcina',
+    descripcionCurso:
+      'En este componente se abordará el tema de la implementación de las BPG en la producción porcina, el diseño y formulación del plan junto con todos los componentes, así como el tema documental y gestión de personal que hacen parte fundamental en la ejecución de las actividades, procesos y procedimientos de la unidad productiva porcícola.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,13 +32,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Plan de implementación',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: '1.1 Componentes  ',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: '1.2 Certificación',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: '1.3 Recursos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: '1.4. Cronograma de actividades ',
+            hash: 't_1_4',
           },
         ],
       },
@@ -45,14 +61,56 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Protocolos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: '2.1 Tipos de procedimientos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: '2.2. Métodos y técnicas de programación',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Documentación y registros',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: '3.1 Tipo, formatos y diligenciamiento',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: '3.2 Trámite',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Capacitación del talento humano',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: '4.1 Métodos y técnicas',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: '4.2 Responsabilidades',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
