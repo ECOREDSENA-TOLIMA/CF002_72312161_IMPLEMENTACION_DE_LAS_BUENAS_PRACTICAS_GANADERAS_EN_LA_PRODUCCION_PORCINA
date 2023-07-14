@@ -9,7 +9,7 @@
 
     p(data-aos="zoom-in") Cuando se habla del plan de implementación se está refiriendo a la descripción de los pasos propuestos que debe seguir un equipo de una organización para alcanzar sus objetivos, a través de una estrategia planificada en una línea de tiempo y actividades. Para tener éxito en la ejecución de este plan se deben tener en cuenta los aspectos que se muestran a continuación.
 
-    .row 
+    .row.mt-5
       .col-6
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="Definir objetivos")
@@ -46,7 +46,7 @@
             h3 Inscripción de granjas
             p Los predios y el inventario de porcinos de producción deben estar registrados ante el ICA y estar autorizados por el Plan de Ordenamiento Territorial (POT).
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img8.png', alt='')
 
@@ -55,7 +55,7 @@
             h3 Sanidad animal y bioseguridad
             p Los animales deben cumplir con un plan sanitario que incluya la prevención, diagnóstico y manejo de enfermedades de control oficial, endémicas y las demás que pudiere requerir la autoridad sanitaria, también debe incluir prácticas de manejo, planes de vacunación sobre todo de PPC y desparasitación, tratamientos comúnmente realizados en la producción, plan de emergencias, procedimiento para adquisición de animales y cuarentena.
 
-          .col-md-4
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img9.png', alt='')
 
@@ -65,7 +65,7 @@
             h3 Registros y documentación
             p El registro es la información que se produce en la producción y asegura que se pueda tener un historial con todo lo acontecido para que se pueda tener en cuenta en la toma de decisiones y el mejoramiento en la productividad, sanidad e inocuidad de la producción. Todos los planes y procedimientos que hacen parte del plan de implementación de BPG deben ser registrados y archivados de manera adecuada, junto con cada uno de los formatos que posibilitan esta actividad.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img10.png', alt='')
 
@@ -74,7 +74,7 @@
             h3 Control de medicamentos y otros insumos
             p Utilizar de forma correcta los medicamentos veterinarios, las vacunas, suplementos, alimentos balanceados, sales mineralizadas, insumos agropecuarios y plaguicidas es de gran importancia en la implementación de las BPG, estas de igual forma deben tener el registro ICA. Además, los medicamentos veterinarios deben ir organizados y direccionados de acuerdo con su principio y acción terapéutica, separados de otros insumos como fertilizantes, plaguicidas o alimentos.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img11.png', alt='')
 
@@ -83,7 +83,7 @@
             h3 Manejo integrado de residuos y plagas
             p Para esto se debe realizar un protocolo de recolección, clasificación, disposición, almacenamiento y rutas de residuos en la unidad productiva, asignando responsables y demás. En cuanto al manejo de plagas se debe elaborar un programa escrito de control de plagas y roedores, que sirve como guía procedimental para los operarios de la unidad productiva, este debe incluir los registros de la aplicación de los productos y las herramientas utilizadas en esta labor.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img12.png', alt='')
 
@@ -92,7 +92,7 @@
             h3 Suministro y calidad del agua
             p Una vez al año, como mínimo, se debe efectuar un análisis químico, físico y microbiológico del agua del predio, en especial de la que es destinada para el consumo animal; además, se debe tener en cuenta los materiales, calidad, capacidad, limpieza y desinfección de los tanques de almacenamiento de agua. En cada etapa los animales requieren de agua limpia y fresca, sobre todo en las fases productivas.
 
-          .col-md-4
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img13.png', alt='')
 
@@ -102,7 +102,7 @@
             h3 Bienestar animal
             p Existen tópicos de gran importancia en la producción animal como el maltrato, estrés, manejo, instalaciones, embarque, transporte y sacrificio que deben considerarse en los sistemas de producción ganadera (Uribe, et al., 2011). Los principios básicos del tema de bienestar en las producciones pecuarias se basan en las cinco libertades propuestas para el mismo de las cuales se han derivado las diferentes prácticas que buscan que los animales se encuentren en las mejores condiciones productivas.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img14.png', alt='')
 
@@ -111,7 +111,7 @@
             h3 Personal
             p El componente humano forma parte fundamental en la producción animal y, por tanto, debe asegurarse de que este no sea susceptible a adquirir o transmitir enfermedades que puedan poner en riesgo el producto, por lo cual se debe garantizar que los trabajadores estén afiliados a EPS y ARL, y que se realicen una evaluación médica por lo menos una vez por año. En las instalaciones debe adecuarse un lugar para el botiquín de primeros auxilios y existir un grupo capacitado de personas que pueda responder a cualquier tipo de eventualidad.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema1/img15.png', alt='')
 
@@ -131,7 +131,7 @@
     p(data-aos="zoom-in").mt-5 La autoridad competente en certificar la unidad productiva es el Instituto Colombiano Agropecuario ICA, el cual evalúa y emite concepto de acuerdo a la aplicación de los criterios establecidos por la Resolución 76509 y la forma 3-519 contabilizando los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los criterios fundamentales al 100%, los criterios mayores por encima de 80% y los criterios menores a un rango mejor que 60% para garantizar efectivas buenas prácticas ganaderas en la producción de porcícola, lo que será suficiente para la expedición del certificado de Buenas Prácticas Ganaderas BPG en la producción de porcinos por parte del ICA y permitirá obtener beneficios en la empresa tanto en el plano interno como en el externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
     p(data-aos="zoom-in") A continuación, se describen los diferentes porcentajes y los conceptos emitidos para certificación de acuerdo a la evaluación realizada en las unidades productivas.
 
-    .col-12.titulo-sexto.color-acento-contenido.mt-3(data-aos="fade-right")
+    .col-12.titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
       p.titulo.pb-0.mb-0 <b>Tabla 1.</b> <i>Totalización de criterios para certificación de BPG </i>
 
     .tabla-a.color-acento-contenido.mt-5(data-aos="fade-left")
@@ -189,12 +189,10 @@
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Certificable")
             .row.justify-content-center
               .col-auto
-                h4 Certificable
                 p El concepto técnico será certificable cuando el predio cumpla con el 100% de los criterios fundamentales, mínimo el 80% de los criterios mayores y mínimo 60% de los criterios menores, ante lo cual se expedirá el certificado de Buenas Prácticas Ganaderas BPG en la producción de porcina (Resolución 76509 de 2020 del ICA, por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción porcina).
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Aplazado")
             .row.justify-content-center
               .col-auto
-                h4 Aplazado
                 p el concepto técnico  será aplazado, cuando el predio cumpla con menos del 100% de los criterios fundamentales, y/o menos del 80% de los criterios mayores, y/o menos del 60% de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Se considerará abandonada la solicitud, sin perjuicio de que pueda realizar una nueva solicitud con el cumplimiento de todos los requisitos exigidos (Resolución 76509 de 2020 del ICA).
                 
     separador
@@ -215,7 +213,7 @@
 
     p(data-aos="zoom-in").mt-5 Así, se puede dar un cuadro completo del sistema, teniendo en consideración los recursos que pueden clasificarse en cinco tipos distintos: 
 
-    .tarjeta.tarjeta--azul.p-4
+    .tarjeta.tarjeta--azul.p-4.mt-5
       SlyderA(tipo="b")
         .row
           .col

@@ -35,7 +35,7 @@
     p(data-aos="zoom-in") Como se mencionó anteriormente, la capacitación al talento humano se realiza para brindarle al personal nuevos instrumentos que benefician a la empresa mejorando su productividad, porque los colaboradores se sentirán más seguros de sus conocimientos y trabajarán de manera más rápida, con más confianza en su desarrollo y podrán aportar nuevas ideas, todo esto se traduce en un trabajo de gran calidad, acorde a los objetivos y las necesidades de la organización y las metas propuestas por la misma.
     p(data-aos="zoom-in") Una vez identificadas las necesidades de capacitación, se procederá a elaborar el programa de capacitación que debe estar diseñado acorde con las actividades que desarrollan los trabajadores y se puede desarrollar de las siguientes formas: 
 
-    .row.justify-content-center
+    .row.justify-content-center.mt-5
       .col-10
         .row.justify-content-center
           .col-5
@@ -68,7 +68,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2 Responsabilidades
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
           .bloque-texto-g__img(
@@ -87,7 +87,7 @@
 
     p(data-aos="zoom-in").mt-5 El director de formación es responsable tanto de diagnosticar las necesidades de capacitación, seleccionar las personas a capacitar, programar el contenido y realizar el seguimiento y evaluación a las capacitaciones que se den por parte de la empresa. A continuación, se muestran con más detalles las responsabilidades anteriormente mencionadas:
 
-    .row.justify-content-center
+    .row.justify-content-center.mt-5
       .col
         .tarjeta-tema1.color-acento-botones.p-4
           p • <b>Diagnóstico de las necesidades</b>: debe identificar cuáles son las debilidades y fortalezas de la empresa porcícola y del personal en cuanto a temas laborales. De igual manera, reconocer las necesidades que presentan los trabajadores en cuanto al desarrollo de competencias y habilidades. 
@@ -107,11 +107,11 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Un recurso es una herramienta o elemento que se utiliza para conseguir los objetivos propuestos en la empresa o para desarrollar un proceso productivo. Son parte fundamental de los proyectos y generalmente cuentan con tres características principales: que posean una utilidad, que estén disponibles y que se consuman o se agoten en su uso, es decir insumos. Los recursos pueden clasificarse en:
 
-    p(data-aos="zoom-in") Naturales: estos hacen referencia a los bienes o servicios que brinda la naturaleza sin la intervención del hombre y permiten el desarrollo o subsistencia de los seres vivos como el oxígeno, la luz solar y el agua, entre otros. De acuerdo con su duración en el tiempo se pueden dividir en:
 
-    .row.justify-content-center
+    .row.justify-content-center.mt-5
       .col
         .tarjeta-tema1.color-acento-botones.p-4
+          p ● <b>Naturales</b>: estos hacen referencia a los bienes o servicios que brinda la naturaleza sin la intervención del hombre y permiten el desarrollo o subsistencia de los seres vivos como el oxígeno, la luz solar y el agua, entre otros. De acuerdo con su duración en el tiempo se pueden dividir en:
           p ● <b>Renovables</b>: se pueden recuperar por sí mismos a través de un ciclo biológico como la luz solar y el viento.
           p ● <b>No renovables</b>: su tasa de extracción es mayor la de su renovación, razón por la cual el recurso se va agotando con el tiempo como pasa con el petróleo, gas natural o los minerales.
 

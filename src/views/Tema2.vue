@@ -55,7 +55,7 @@
             li 
               | • Debe estar escrito y ser de fácil acceso para el personal que lo requiera.
 
-    .tarjeta--container.row
+    .tarjeta--container.row.mt-5
       .col-md.tarjeta.p-5
         .row.justify-content-center.mb-4
           .col-auto
@@ -164,7 +164,7 @@
             h3 Instalaciones e inventario de animales
             p De acuerdo con el tipo de producción que se tenga proyectado, se debe calcular el espacio que va a ocupar cada grupo de cerdos dependiendo de la etapa en la que se encuentren, por ejemplo, las instalaciones de maternidad, gestación, precebos, destete, levante y ceba, machos reproductores, entre otras. Para lograrlo, es necesario realizar el inventario de animales que se tiene en la granja, determinando la cantidad exacta de cerdos que se tienen en cada una de las áreas como se muestra a continuación:
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema2/img10.png', alt='')
 
@@ -177,7 +177,7 @@
             p d. Parideras: partos y lactancia. 
             p e. Precebos o destete: se tienen los lechones desde el destete hasta la etapa de levante y ceba.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema2/img11.png', alt='')
 
@@ -193,7 +193,7 @@
             p e. Cantidad de lechones en destete.
             p f. Cantidad de animales vendidos.
 
-          .col-md-6
+          .col-md-6.p-3
             figure
               img(src='@/assets/curso/temas/tema2/img12.png', alt='')
 
