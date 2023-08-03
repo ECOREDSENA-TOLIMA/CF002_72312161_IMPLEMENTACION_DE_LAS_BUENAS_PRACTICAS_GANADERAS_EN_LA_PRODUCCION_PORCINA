@@ -62,7 +62,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img2.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Claramente este plan de capacitación deberá estar acompañado de un cronograma, presupuesto, infraestructura, equipos y materiales para realizar la capacitación. Estos recursos garantizarán que el personal pueda desarrollar sus competencias, habilidades y destrezas en la ejecución de sus labores.
+            p.mb-0 Claramente, este plan de capacitación deberá estar acompañado de un cronograma, presupuesto, infraestructura, equipos y materiales para realizar la capacitación. Estos recursos garantizarán que el personal pueda desarrollar sus competencias, habilidades y destrezas en la ejecución de sus labores.
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido
@@ -92,11 +92,11 @@
         .tarjeta-tema1.color-acento-botones.p-4
           p • <b>Diagnóstico de las necesidades</b>: debe identificar cuáles son las debilidades y fortalezas de la empresa porcícola y del personal en cuanto a temas laborales. De igual manera, reconocer las necesidades que presentan los trabajadores en cuanto al desarrollo de competencias y habilidades. 
           p • <b>Planificación y organización</b>: una vez identificado las necesidades de formación de los empleados, el responsable deberá diseñar el plan de capacitación y definir la forma más adecuada de impartirlo según los objetivos propuestos. Esto puede hacerse en forma de seminarios, talleres o cursos a distancia, por ejemplo.
-          p • <b>Ejecución del plan de formación</b>: en esta fase, el responsable de formación será el encargado de impartir y supervisar la capacitación del personal, elaborar el timing y material, y preparar a los instructores en caso de que se requiera. 
+          p • <b>Ejecución del plan de formación</b>: en esta fase, el responsable de formación será el encargado de impartir y supervisar la capacitación del personal, elaborar el <i>timing</i> y material, y preparar a los instructores en caso de que se requiera. 
           p • <b>Evaluación y seguimiento</b>: esta fase final permitirá al director de formación evaluar el logro de la capacitación en base a grandes rasgos, al aprendizaje, la habilidad demostrada, desempeño de su competencia laboral y los resultados obtenidos. 
         
     h4(data-aos="zoom-in").mt-5 Recursos para la Implementación de Buenas Prácticas Ganaderas - BPG
-    p(data-aos="zoom-in") La implementación de BPG en la producción porcina, además de asegurar que los productos producidos no afecten la salud del consumidor, debe garantizar que su producción no afecte negativamente al medio ambiente. De igual manera, asegurar la eficiencia y productividad de la empresa porcina manejando el uso racional de los recursos tanto físicos, económicos y de personal. 
+    p(data-aos="zoom-in") La implementación de BPG en la producción porcina, además de asegurar que los productos producidos no afecten la salud del consumidor, debe garantizar que su producción no afecte negativamente al medio ambiente. De igual manera, asegurar la eficiencia y productividad de la empresa porcina, manejando el uso racional de los recursos tanto físicos, económicos y de personal. 
 
     .row.justify-content-center.mt-5
       .col-10
@@ -125,7 +125,7 @@
               img(src='@/assets/curso/temas/tema4/img5.svg', alt='')
           .col-md-6.mb-4.mb-md-0
             h4 Recursos físicos
-            p Son la propiedad tangible e incluyen instalaciones, oficinas, bodegas, terrenos, maquinaria, equipos y herramientas. Algunos recursos (por ejemplo, instalaciones de fabricación y centros de distribución) reflejan grandes inversiones que sólo se producen cada 20 años o más. Otros, como herramientas desechables, pueden requerir poca inversión y pueden ser cambiados con frecuencia.
+            p Son la propiedad tangible e incluyen instalaciones, oficinas, bodegas, terrenos, maquinaria, equipos y herramientas. Algunos recursos (por ejemplo, instalaciones de fabricación y centros de distribución) reflejan grandes inversiones que solo se producen cada 20 años o más. Otros, como herramientas desechables, pueden requerir poca inversión y pueden ser cambiados con frecuencia.
 
         .row(titulo="")
           .col-md-6

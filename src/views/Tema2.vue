@@ -162,7 +162,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3 Instalaciones e inventario de animales
-            p De acuerdo con el tipo de producción que se tenga proyectado, se debe calcular el espacio que va a ocupar cada grupo de cerdos dependiendo de la etapa en la que se encuentren, por ejemplo, las instalaciones de maternidad, gestación, precebos, destete, levante y ceba, machos reproductores, entre otras. Para lograrlo, es necesario realizar el inventario de animales que se tiene en la granja, determinando la cantidad exacta de cerdos que se tienen en cada una de las áreas como se muestra a continuación:
+            p De acuerdo con el tipo de producción que se tenga proyectado, se debe calcular el espacio que va a ocupar cada grupo de cerdos dependiendo de la etapa en la que se encuentren, por ejemplo, las instalaciones de maternidad, gestación, precebos, destete, levante y ceba, machos reproductores, entre otras. Para lograrlo, es necesario realizar el inventario de animales que se tiene en la granja, determinando la cantidad exacta de cerdos que se tienen en cada una de las áreas, como se muestra a continuación:
 
           .col-md-6.p-3
             figure

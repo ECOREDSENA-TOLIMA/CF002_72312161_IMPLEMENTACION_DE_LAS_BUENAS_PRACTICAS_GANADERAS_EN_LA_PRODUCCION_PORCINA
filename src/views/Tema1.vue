@@ -7,7 +7,7 @@
         span 1
       h1 Plan de implementación
 
-    p(data-aos="zoom-in") Cuando se habla del plan de implementación se está refiriendo a la descripción de los pasos propuestos que debe seguir un equipo de una organización para alcanzar sus objetivos, a través de una estrategia planificada en una línea de tiempo y actividades. Para tener éxito en la ejecución de este plan se deben tener en cuenta los aspectos que se muestran a continuación.
+    p(data-aos="zoom-in") Cuando se habla del plan de implementación, se está refiriendo a la descripción de los pasos propuestos que debe seguir un equipo de una organización para alcanzar sus objetivos, a través de una estrategia planificada en una línea de tiempo y actividades. Para tener éxito en la ejecución de este plan se deben tener en cuenta los aspectos que se muestran a continuación.
 
     .row.mt-5
       .col-6
@@ -53,7 +53,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3 Sanidad animal y bioseguridad
-            p Los animales deben cumplir con un plan sanitario que incluya la prevención, diagnóstico y manejo de enfermedades de control oficial, endémicas y las demás que pudiere requerir la autoridad sanitaria, también debe incluir prácticas de manejo, planes de vacunación sobre todo de PPC y desparasitación, tratamientos comúnmente realizados en la producción, plan de emergencias, procedimiento para adquisición de animales y cuarentena.
+            p Los animales deben cumplir con un plan sanitario que incluya la prevención, diagnóstico y manejo de enfermedades de control oficial, endémicas y las demás que pudiere requerir la autoridad sanitaria, también debe incluir prácticas de manejo, planes de vacunación, sobre todo de PPC y desparasitación, tratamientos comúnmente realizados en la producción, plan de emergencias, procedimiento para adquisición de animales y cuarentena.
 
           .col-md-6.p-3
             figure
@@ -193,7 +193,7 @@
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Aplazado")
             .row.justify-content-center
               .col-auto
-                p el concepto técnico  será aplazado, cuando el predio cumpla con menos del 100% de los criterios fundamentales, y/o menos del 80% de los criterios mayores, y/o menos del 60% de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Se considerará abandonada la solicitud, sin perjuicio de que pueda realizar una nueva solicitud con el cumplimiento de todos los requisitos exigidos (Resolución 76509 de 2020 del ICA).
+                p El concepto técnico  será aplazado, cuando el predio cumpla con menos del 100% de los criterios fundamentales, y/o menos del 80% de los criterios mayores, y/o menos del 60% de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Se considerará abandonada la solicitud, sin perjuicio de que pueda realizar una nueva solicitud con el cumplimiento de todos los requisitos exigidos (Resolución 76509 de 2020 del ICA).
                 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -206,10 +206,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img18.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Los recursos comprenden todo, desde los equipos, elementos y fondos económicos hasta el volumen de empleados, es decir todo lo que sea necesario para la operatividad y funcionamiento de una unidad productiva, plan de implementación o proyecto.
+            p.mb-0 Los recursos comprenden todo, desde los equipos, elementos y fondos económicos hasta el volumen de empleados, es decir, todo lo que sea necesario para la operatividad y funcionamiento de una unidad productiva, plan de implementación o proyecto.
             br
             br
-            p Para adquirir recursos se debe realizar la gestión del proceso de planificación y programación de los recursos y actividades para implementar un plan o proyecto, luego se formula un plan que, para ser eficaz, debe establecer recursos específicos incluidos los recursos humanos, financieros, técnicos y físicos, además de todas las actividades necesarias durante la ejecución de un proyecto, plan o iniciativa de manera efectiva.
+            p Para adquirir recursos se debe realizar la gestión del proceso de planificación y programación de los recursos y actividades para implementar un plan o proyecto, luego se formula un plan que, para ser eficaz, debe establecer recursos específicos, incluidos los recursos humanos, financieros, técnicos y físicos, además de todas las actividades necesarias durante la ejecución de un proyecto, plan o iniciativa de manera efectiva.
 
     p(data-aos="zoom-in").mt-5 Así, se puede dar un cuadro completo del sistema, teniendo en consideración los recursos que pueden clasificarse en cinco tipos distintos: 
 

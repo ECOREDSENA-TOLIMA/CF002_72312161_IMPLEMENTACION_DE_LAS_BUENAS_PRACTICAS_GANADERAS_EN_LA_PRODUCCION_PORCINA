@@ -39,7 +39,7 @@
           
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
-            p También se tiene el registro de las labores y procedimientos de limpieza y desinfección de las instalaciones, utensilios y elementos que son necesarios dentro de la producción. Así mismo el registro de manejo integral de residuos sólidos y líquidos, y el control de plagas y roedores entre otros.
+            p También se tiene el registro de las labores y procedimientos de limpieza y desinfección de las instalaciones, utensilios y elementos que son necesarios dentro de la producción. Así mismo, el registro de manejo integral de residuos sólidos y líquidos, y el control de plagas y roedores, entre otros.
 
           .col-md-6.p-3
             figure
@@ -106,7 +106,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Tipo, formatos y diligenciamiento
 
-    p(data-aos="zoom-in") Existen varios tipos de formatos o registros que deben llevarse dentro de la producción ya sea interna o externamente, los cuales son de gran importancia para consignar la información relevante del proceso productivo y que, además, puede apoyar la toma de decisiones en la unidad productiva, entre ellos  figuran los de registros de entrada y salida del predio, limpieza y desinfección, aplicación de medicamentos, capacitaciones del personal, vacunación y desparasitación, reproducción, parámetros productivos, entre otros.
+    p(data-aos="zoom-in") Existen varios tipos de formatos o registros que deben llevarse dentro de la producción, ya sea interna o externamente, los cuales son de gran importancia para consignar la información relevante del proceso productivo y que, además, puede apoyar la toma de decisiones en la unidad productiva, entre ellos  figuran los de registros de entrada y salida del predio, limpieza y desinfección, aplicación de medicamentos, capacitaciones del personal, vacunación y desparasitación, reproducción, parámetros productivos, entre otros.
 
     .row.justify-content-center.mt-5
       .col-10

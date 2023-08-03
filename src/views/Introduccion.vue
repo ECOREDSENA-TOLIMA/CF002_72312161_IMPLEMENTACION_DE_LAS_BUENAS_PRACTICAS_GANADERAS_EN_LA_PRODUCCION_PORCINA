@@ -24,8 +24,8 @@
     p(data-aos="fade-right").mb-5.mt-5 Partiendo de lo anterior, se da la bienvenida al estudio de este componente formativo y, para comenzar, se invita a explorar el video que se presenta a continuación: 
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video: Leyenda del video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/3TpgWcSeDfc" title="Implementación de Buenas Prácticas Ganaderas (BPG) en la producción porcina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video: Implementación de Buenas Prácticas Ganaderas (BPG) en la producción porcina
 </template>
 
 <script>
