@@ -131,7 +131,7 @@
                   h4.mb-1.text-white Formatos para registro en la implementación de BPG en la producción porcina
 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/CF02_3.1_Formatos _para_ registro_en_la_implementación_de_BPG_en la_producción_porcina.pptx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Formatos_para_registro_en_la_implementacion_de_BPG_en_la_produccion_porcina.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
