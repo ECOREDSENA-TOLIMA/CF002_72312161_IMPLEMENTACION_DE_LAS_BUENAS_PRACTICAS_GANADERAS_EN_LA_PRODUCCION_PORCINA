@@ -128,7 +128,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Certificarse en BPG en la unidad productiva es de gran importancia, pues los productores tienen una mayor posibilidad de que sus productos cumplan con los estándares de alta calidad, reciban un mejor precio y tengan acceso a los mercados nacionales e internacionales, disfrutando de los beneficios de los acuerdos comerciales establecidos con diferentes países. 
 
-    p(data-aos="zoom-in").mt-5 La autoridad competente en certificar la unidad productiva es el Instituto Colombiano Agropecuario ICA, el cual evalúa y emite concepto de acuerdo a la aplicación de los criterios establecidos por la Resolución 76509 y la forma 3-519 contabilizando los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los criterios fundamentales al 100%, los criterios mayores por encima de 80% y los criterios menores a un rango mejor que 60% para garantizar efectivas buenas prácticas ganaderas en la producción de porcícola, lo que será suficiente para la expedición del certificado de Buenas Prácticas Ganaderas BPG en la producción de porcinos por parte del ICA y permitirá obtener beneficios en la empresa tanto en el plano interno como en el externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
+    p(data-aos="zoom-in").mt-5 La autoridad competente en certificar la unidad productiva es el Instituto Colombiano Agropecuario ICA, el cual evalúa y emite concepto de acuerdo a la aplicación de los criterios establecidos por la Resolución 76509 y la forma 3-519 contabilizando los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los criterios fundamentales al 100 %, los criterios mayores por encima de 80 % y los criterios menores a un rango mejor que 60 % para garantizar efectivas buenas prácticas ganaderas en la producción de porcícola, lo que será suficiente para la expedición del certificado de Buenas Prácticas Ganaderas BPG en la producción de porcinos por parte del ICA y permitirá obtener beneficios en la empresa tanto en el plano interno como en el externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
     p(data-aos="zoom-in") A continuación, se describen los diferentes porcentajes y los conceptos emitidos para certificación de acuerdo a la evaluación realizada en las unidades productivas.
 
     .col-12.titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
@@ -152,7 +152,7 @@
             td.text-center 23
             td 
             td 
-            td.text-center 100%
+            td.text-center 100 %
             td
             td
           tr
@@ -160,7 +160,7 @@
             td.text-center 34
             td 
             td 
-            td.text-center 80%
+            td.text-center 80 %
             td
             td
           tr
@@ -168,7 +168,7 @@
             td.text-center 5
             td 
             td 
-            td.text-center 60%
+            td.text-center 60 %
             td
             td
 
@@ -189,11 +189,11 @@
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Certificable")
             .row.justify-content-center
               .col-auto
-                p El concepto técnico será certificable cuando el predio cumpla con el 100% de los criterios fundamentales, mínimo el 80% de los criterios mayores y mínimo 60% de los criterios menores, ante lo cual se expedirá el certificado de Buenas Prácticas Ganaderas BPG en la producción de porcina (Resolución 76509 de 2020 del ICA, por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción porcina).
+                p El concepto técnico será certificable cuando el predio cumpla con el 100 % de los criterios fundamentales, mínimo el 80 % de los criterios mayores y mínimo 60 % de los criterios menores, ante lo cual se expedirá el certificado de Buenas Prácticas Ganaderas BPG en la producción de porcina (Resolución 76509 de 2020 del ICA, por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción porcina).
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Aplazado")
             .row.justify-content-center
               .col-auto
-                p El concepto técnico  será aplazado, cuando el predio cumpla con menos del 100% de los criterios fundamentales, y/o menos del 80% de los criterios mayores, y/o menos del 60% de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Se considerará abandonada la solicitud, sin perjuicio de que pueda realizar una nueva solicitud con el cumplimiento de todos los requisitos exigidos (Resolución 76509 de 2020 del ICA).
+                p El concepto técnico  será aplazado, cuando el predio cumpla con menos del 100 % de los criterios fundamentales, y/o menos del 80 % de los criterios mayores, y/o menos del 60 % de los criterios menores; las no conformidades encontradas se pueden corregir en un plazo máximo de tres (3) meses, contados a partir de la fecha de la visita. Se considerará abandonada la solicitud, sin perjuicio de que pueda realizar una nueva solicitud con el cumplimiento de todos los requisitos exigidos (Resolución 76509 de 2020 del ICA).
                 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
